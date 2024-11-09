@@ -1,3 +1,4 @@
+/*if you want to put a file you can go to main and put a file that you want*/
 #include "analyzer.h"
 
 int yylex(FILE* fpointer, union semantic_info* sem) {
